@@ -1,4 +1,4 @@
-TITLE Pointers                       (Pointers.asm)
+TITLE Pointers and TYPEDEF                    
 
 ; Demonstration of pointers and TYPEDEF.
 
