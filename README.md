@@ -2,10 +2,13 @@
 
 File extensions:
 Source: .asm
+
 List:   .lst
+
 
 Software: 
 Write: MASM32 Editor
+
 Test: VS Express 12
 
 
