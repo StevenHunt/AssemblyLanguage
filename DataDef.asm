@@ -1,4 +1,4 @@
-TITLE Data Definitions               (DataDef.asm)
+TITLE Data Definitions         
 
 ; Examples showing how to define data.
 
