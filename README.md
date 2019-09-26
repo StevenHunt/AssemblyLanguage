@@ -1,11 +1,5 @@
 # Assembly Language for x86 Processor with MASM
 
-File Extensions:
-  
-- Source: .asm
-  
-- List:   .lst
-
 Course: 
 
 CSIS 28 : Comuputer Architecture
